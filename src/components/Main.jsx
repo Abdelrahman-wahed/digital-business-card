@@ -3,7 +3,7 @@ import Btn from "./Btn"
 export default function Main() {
   return (
     <>
-      <h1 className="name-employee">Laura Smith</h1>
+      <h1 className="name-employee">Abdelrahman</h1>
       <h2 className="job">Frontend Developer</h2>
       <p className="desc">laurasmith.website</p>
       <div className="content">
